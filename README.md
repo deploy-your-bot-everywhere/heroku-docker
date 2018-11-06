@@ -8,8 +8,8 @@
 
 4. Клонируем репозиторий**
   ```bash
-  git clone https://github.com/heyyyoyy/deploy-your-bot-everywhere.git
-  cd deploy-your-bot-everywhere 
+  git clone https://github.com/deploy-your-bot-everywhere/heroku-docker.git
+  cd heroku-docker 
   ```
 5. Логинимся
 ```bash
